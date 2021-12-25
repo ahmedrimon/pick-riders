@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.hero-container {
+  font-family: 'Inter', sans-serif;
+  margin-left: 9rem;
+  margin-top: 15rem;
+}
+.hero-link {
+  text-decoration: none;
+  color: #000;
+}
+.hero-link:hover {
+  color: #000;
+}
